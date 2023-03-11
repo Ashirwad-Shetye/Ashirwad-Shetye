@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hey 👋 I'm Ashirwad Shetye
 
-<!--
-**Ashirwad-Shetye/Ashirwad-Shetye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Web Developer
 
-Here are some ideas to get you started:
+- 🌍 I'm based in India.
+- 🔗 Get my portfolio [here](https://www.ashirwadshetye.com)
+- 🖥️ Know more about me at [LinkedIn](https://www.linkedin.com/in/ashirwadshetye/) or [Instagram](https://www.instagram.com/ashirwadshetye/)
+- ✉️ You can contact me [here](mailto:ashirwadpramodshetye@gmail.com)
+- 🤝 I'm open to collaborate in interesting Projects and all other kind of cool stuff to explore and learn more and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/express.js-white?style=for-the-badge&logo=express&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+# 📊 GitHub Stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashirwad-Shetye&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ashirwad-Shetye&theme=tokyonight&hide_border=false)<br/>
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Ashirwad-Shetye&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
