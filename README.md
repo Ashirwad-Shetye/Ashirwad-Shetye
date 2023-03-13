@@ -14,9 +14,11 @@
 
 # 📊 GitHub Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashirwad-Shetye&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashirwad-Shetye&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ashirwad-Shetye&theme=tokyonight&hide_border=false)<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashirwad-Shetye)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 
