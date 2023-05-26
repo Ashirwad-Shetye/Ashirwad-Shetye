@@ -20,6 +20,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashirwad-Shetye)](https://github.com/anuraghazra/github-readme-stats)
 
+![Codewars](https://github.r2v.ch/codewars?user=ashirwad98)
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
