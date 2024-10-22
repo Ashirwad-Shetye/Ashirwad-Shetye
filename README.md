@@ -3,7 +3,7 @@
 ## Full Stack Web Developer
 
 - 🌍 I'm based in India.
-- 🔗 Get my portfolio <a href="https://www.ashirwadshetye.com" target="_blank">here</a>
+- 🔗 Get my portfolio <a href="[https://www.ashirwadshetye.com](https://ashirwad-shetye-portfolio-fy5jpt51h-ashirwad-shetye.vercel.app/)" target="_blank">here</a>
 - 🖥️ Know more about me at <a href="https://www.linkedin.com/in/ashirwadshetye/" target="_blank">LinkedIn</a> or <a href="https://www.instagram.com/ashirwadshetye/" target="_blank">Instagram</a>
 - ✉️ You can contact me [here](mailto:ashirwadpramodshetye@gmail.com)
 - 🤝 I'm open to collaborate in interesting Projects and all other kind of cool stuff to explore and learn more and more.
